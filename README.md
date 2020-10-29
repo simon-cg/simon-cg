@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: My GitHub Stats :zap:</summary>
 
-  <img align="left" alt="Simon CG's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simon-cg&show_icons=true&hide_border=true" />
+  <img align="left" alt="Simon CG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simon-cg&show_icons=true&hide_border=true&theme=gruvbox" />
 
 </details>
 
