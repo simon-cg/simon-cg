@@ -40,8 +40,6 @@
 <br />
 <br />
 
-![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simon-cg&count_private=true&theme=gruvbox)
-
 [website]: https://cartergraham.com/
 [twitter]: https://twitter.com/simonc_g
 [linkedin]: https://www.linkedin.com/in/simon-c-892bb91b7/
