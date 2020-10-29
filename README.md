@@ -33,17 +33,14 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-cg&layout=compact)](https://github.com/simon-cg/github-readme-stats)
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: My GitHub Stats :zap:</summary>
-
-  <img align="left" alt="Simon CG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simon-cg?count_private=true&show_icons=true&hide_border=true&theme=gruvbox" />
-
-</details>
+![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simon-cg&count_private=true&theme=gruvbox)
 
 [website]: https://cartergraham.com/
 [twitter]: https://twitter.com/simonc_g
