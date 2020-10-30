@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon 👋
 
-- 🔭 I’m currently working on ... ZunderZump
+- 🔭 I’m currently working on ... ZunderZump[zz]
 - 🌱 I’m currently learning ... Full-stack JavaScript
 - 👯 I’m looking to collaborate on ... more open source projects going forward
 - 💬 Ask me about ... anything
@@ -33,6 +33,7 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-cg&layout=compact)](https://github.com/simon-cg/github-readme-stats)
 
@@ -42,3 +43,4 @@
 [website]: https://cartergraham.com/
 [twitter]: https://twitter.com/simonc_g
 [linkedin]: https://www.linkedin.com/in/simon-c-892bb91b7/
+[zz]: https://zunderzump.co.uk/
