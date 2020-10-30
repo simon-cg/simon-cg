@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... more open source projects going forward
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... cartergrahamsimon@gmail.com
-- ⚡ Fun fact: ... I have sumo-wrestled with Akebono
+- ⚡ Fun fact: ... I have sumo-wrestled with [Akebono]
 
 ### Connect:
 
@@ -44,3 +44,4 @@
 [twitter]: https://twitter.com/simonc_g
 [linkedin]: https://www.linkedin.com/in/simon-c-892bb91b7/
 [ZunderZump]: https://zunderzump.co.uk/
+[Akebono]: https://en.wikipedia.org/wiki/Akebono_Tar%C5%8D
