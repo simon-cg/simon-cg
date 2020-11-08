@@ -1,8 +1,8 @@
 ### Hi there, I'm Simon 👋
 
 - 🔭 I’m currently working on ... [ZunderZump]
-- 🌱 I’m currently learning ... Full-stack JavaScript
-- 👯 I’m looking to collaborate on ... more open source projects going forward
+- 🌱 I’m currently learning ... to become better with SVG
+- 👯 I’m looking to collaborate on ... open source projects
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... cartergrahamsimon@gmail.com
 - ⚡ Fun fact: ... I have sumo-wrestled with [Akebono]
