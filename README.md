@@ -1,7 +1,7 @@
 ### Hi there, I'm Simon 👋
 
 - 🔭 I’m currently working on ... [ZunderZump]
-- 🌱 I’m currently learning ... to become better with SVG
+- 🌱 I’m currently learning ... SVG
 - 👯 I’m looking to collaborate on ... open source projects
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... cartergrahamsimon@gmail.com
