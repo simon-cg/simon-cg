@@ -1,10 +1,10 @@
 ### Hi there, I'm Simon 👋
 
 - 🔭 I’m currently working on ... [ZunderZump]
-- 🌱 I’m currently learning ... SVG
+- 🌱 I’m currently learning ... c2c payments integration
 - 👯 I’m looking to collaborate on ... open source projects
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... cartergrahamsimon@gmail.com
+- 📫 How to reach me: ... `carter graham simon at gmail dot com`
 - ⚡ Fun fact: ... I have sumo-wrestled with [Akebono]
 
 ### Connect:
