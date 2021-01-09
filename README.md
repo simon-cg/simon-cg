@@ -2,14 +2,11 @@
 
 - 🔭 I’m currently working on ... [ZunderZump]
 - 🌱 I’m currently learning ... GraphQL APIs
-- 👯 I’m looking to collaborate on ... any cool ideas
-- 💬 Ask me about ... anything
 - 📫 How to reach me: ... `carter graham simon at gmail dot com`
 - ⚡ Fun fact: ... I have sumo-wrestled with [Akebono]
 
 ### Connect:
 
-[<img align="left" alt="cartergraham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="simon-cg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="simon-cg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
